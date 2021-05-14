@@ -1,0 +1,9 @@
+SpringBatch
+ -> Read
+ -> Process
+ -> Write
+ 
+ In springBatch 
+ 	-> We create a "JOB"
+ 	-> "JOB" consist of multiple "STEP"
+ 	-> Each "STEP" is basically Read, Process, Write
